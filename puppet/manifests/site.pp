@@ -1,1 +1,1 @@
-import  "/opt/ning/gitpuppet/puppet/manifests/nodes.pp"
+import  "/opt/ning/gitpuppet/puppetest/puppet/manifests/nodes.pp"
